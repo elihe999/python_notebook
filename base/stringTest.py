@@ -27,3 +27,8 @@ for block in TestString.split(","):
     matchObj = re.match( r'(.*)==(.*).*(?<!==)$', block)
     if matchObj:
         print(block.strip())
+
+
+floatExample = 0.2234325
+print("%.3f%%" % (floatExample/2))
+print("%d" % (floatExample))
