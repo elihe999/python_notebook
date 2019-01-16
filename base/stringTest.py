@@ -14,13 +14,7 @@ else:
 print("The %s ,weight is %d kg!" % ('World', 21))
 
 TestString = """100==Standard,
- 101==NortelMCS,
- 102==Broadsoft,
- 108==CBCOM,
- 109==RNK,
- 110==Sylantro,
- 117==HuaweiIMS,
- 119==Phonepower"""
+ 101==NonStandard"""
 
 # print(TestString)
 
