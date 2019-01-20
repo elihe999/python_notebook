@@ -9,6 +9,6 @@ fi
 
 ROOT_PYTHON="/usr/bin/python3"
 #PYTHON=`python -c "import sys; print(sys.real_prefix)"`/bin/python3
-PYTHON="/usr/bin/python"
+PYTHON="/usr/local/Celler/python/3.7.2_1/bin/python3"
 export PYTHONHOME=$ENV
 exec $PYTHON "$@"
