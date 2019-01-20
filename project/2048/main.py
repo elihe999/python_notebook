@@ -1,11 +1,13 @@
+#/usr/local/bin/python3
 # -*- coding: utf-8 -*-
+
 
 """
 None: top parent
 -1: id
 pos:
 size: X Y
-
+/usr/local/Cellar/python/3.7.2_1/bin/python3
 """
 
 import wx
