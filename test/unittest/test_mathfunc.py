@@ -9,7 +9,7 @@ class TestMathFunc(unittest.TestCase):
 
     def test_add(self):
         self.assertEqual(3, add(1,2))
-        self.assertNotEqual(3, add(2,2))
+        self.assertEqual(3, add(2,2))
 
 
 if __name__ == '__main__':
