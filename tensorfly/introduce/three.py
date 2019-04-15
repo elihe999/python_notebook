@@ -36,3 +36,5 @@ for step in range(0, 201):
 ## option1 : ignore it
 ## tensorflow build 
 # option2 : pip install --ignore-installed --upgrade "Download URL" --user
+
+#FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
